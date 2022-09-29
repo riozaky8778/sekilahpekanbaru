@@ -1,0 +1,25 @@
+* {
+    margin: 0;
+    padding: 0;
+    -webkit-box-sizing: border-box;
+            box-sizing: border-box;
+  }
+  body {
+    font-family: "ARIAL", Courier, monospace;
+    background-size: cover;
+    height: 100vh;
+  }
+  .container > h1 {
+    font-size: 32px;
+    text-align: center;
+    margin-bottom: 16px;
+    padding-bottom: 16px;
+    color: rgb(100, 97, 97);
+    border-bottom: 4px solid rgba(83, 82, 82, 0.7);
+  }
+  .form-group .control-label {
+    text-align: center;
+    font-size: 18px;
+    font-weight: 400;
+    color: rgb(88, 88, 88);
+  }
